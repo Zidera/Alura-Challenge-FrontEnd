@@ -1,0 +1,143 @@
+@media(min-width:375px){
+  .container{
+    max-width:343px;
+
+  }
+}
+
+@media(min-width:420px){
+  .container{
+    max-width:356px;
+  }
+  .project{
+    height: 90vw;
+    max-height: 375px;
+  }
+
+}
+
+@media(min-width:540px){
+  .container{
+    max-width:476px;
+  }
+}
+
+@media (min-width: 767px) {
+
+  .container{
+    max-width:704px;
+  }
+  .cabecalho{
+    align-items: center;
+
+  }
+
+  .cabecalho__logo{
+    height: 4.5vw;
+        
+  }
+  .cabecalho__lupa{
+    display: none;
+  }
+  .cabecalho__search{
+       display: block;
+    
+  }
+
+  
+  .project__outborder{
+    margin-top: 0;
+  }
+  .project__innerborder{
+    padding:1.5vw;
+  }
+  .project__text{
+    height: 33vw;
+    max-height: 300px ;
+  }
+  .custom{
+    display: flex;
+    align-items: center;
+
+  }
+
+  #seletor{
+    margin-right: 1.563vw;
+  }
+  .fields__color{
+    margin-left: 1.563vw;
+  }
+  
+  
+
+}
+
+@media (min-width: 1200px){
+
+  .container{
+    max-width:1136px;
+  }
+
+    .cabecalho__menu{
+    display: none;
+  }
+  .cabecalho__perfil{
+    display: flex;
+    
+  }
+
+  
+  .cabecalho__logo{
+    width: 145px;
+    height: 3rem;
+    margin-right: 0.4rem;
+  }
+
+  main{
+    display:grid;
+    grid-template-areas: "left center right";
+    grid-template-columns: 1fr 3fr 1fr;
+  }
+
+  .grid-left{
+    grid-area: left;
+  }
+
+  .grid-center{
+    grid-area: center;
+  }
+  .grid-right{
+    grid-area: right;
+    margin-left: 2.5rem;
+  }
+
+  .left-menu{
+   
+    display: block;
+      
+  }
+
+  .custom{
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .fields__color{
+    margin-left: 0;
+  }
+
+  #seletor{
+    margin-right: 0;
+  }
+}
+
+@media(min-width:1380px){
+  .container{
+    max-width: 1380px;
+  }
+
+  .cabecalho__logo{
+    
+    margin-right: 2rem;
+  }
+}
