@@ -21,7 +21,7 @@ function mostraProjetos(){
 function montaCartao(projeto) {
   let cartao = `
     <div class="project" data-id="${projeto.id}">
-          <div class="project__outborder">
+          <div class="project__outborder" style="background-color:${projeto.detalhesDoProjeto.corDaBorda};">
             <div class="project__innerborder">
               <div class="project__mac">
                 <img src="./assets/imgs/Ellipse 1.png" alt="">
