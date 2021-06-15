@@ -1,5 +1,5 @@
 # Sobre este projeto
-O alura challenge veio com a proposta de simular um projeto real numa empresa. Dando backlogs semanais e deixando os programadores livres para implementar/debater/questionar as soluções possíveis. O projeto proposta é o Alura Dev, uma forma de desenvolvedores compartilharem códigos, debaterem e comentarem.
+O alura challenge veio com a proposta de simular um projeto real numa empresa. Fornecendo backlogs semanais ao longo de 4 semanas e deixando os programadores livres para implementar/debater/questionar as soluções possíveis. O projeto proposto é o Alura Dev, uma forma de desenvolvedores compartilharem códigos, debaterem e comentarem.
 
 # Tecnologias utilizadas
 - HTML
