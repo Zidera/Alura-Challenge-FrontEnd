@@ -9,8 +9,7 @@ O alura challenge veio com a proposta de simular um projeto real numa empresa. D
 
 # Execute este projeto localmente:
 
-1. Clone o repositório:
-git clone git@github.com:zidera/Alura-Challenge-FrontEnd.git
+1. Clone o repositório ou baixe os arquivos em https://github.com/Zidera/Alura-Challenge-FrontEnd
 
 2. Execute o index.html no seu navegador
 
