@@ -16,5 +16,7 @@ git clone git@github.com:zidera/Alura-Challenge-FrontEnd.git
 
 ## Melhorias
 [x] Salvar cor no local storage e carregar no comunidade.html
+
 [ ] Exportar imagem do código
+
 [ ] Salvar código em BD.
